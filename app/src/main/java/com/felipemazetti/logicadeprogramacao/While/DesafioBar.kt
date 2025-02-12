@@ -1,4 +1,4 @@
-package com.felipemazetti.logicadeprogramacao
+package com.felipemazetti.logicadeprogramacao.While
 
 /*Em um bar, o ingresso custa 10 reais para homens e 8 reais para mulheres. Cada cerveja custa 5
 reais, cada refrigerante 3 reais e cada espetinho custa 7. Além disso, o bar cobra uma taxa de

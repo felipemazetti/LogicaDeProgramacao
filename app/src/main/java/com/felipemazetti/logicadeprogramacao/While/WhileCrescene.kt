@@ -1,4 +1,4 @@
-package com.felipemazetti.logicadeprogramacao
+package com.felipemazetti.logicadeprogramacao.While
 
 /*Problema "crescente" (adaptado de URI 1113)
 Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma

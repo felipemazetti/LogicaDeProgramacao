@@ -1,4 +1,4 @@
-package com.felipemazetti.logicadeprogramacao
+package com.felipemazetti.logicadeprogramacao.While
 
 fun main(){
 
